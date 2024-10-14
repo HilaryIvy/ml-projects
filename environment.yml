@@ -1,4 +1,4 @@
-name: <GITHUB_REPOSITORY>
+name: ml-projects
 channels:
   - anaconda
   - pytorch
